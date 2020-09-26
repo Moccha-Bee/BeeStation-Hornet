@@ -176,7 +176,7 @@
 	singular_name = "retro floor tile"
 	desc = "A stack of floor tiles that remind you of simpler times.."
 	icon_state = "tile_eighties"
-	turf_type = /turf/open/floor/carpet/eighties
+	turf_type = /turf/open/floor/eighties
 
 /obj/item/stack/tile/carpet/fifty
 	amount = 50
